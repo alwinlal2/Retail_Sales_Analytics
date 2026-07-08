@@ -42,8 +42,10 @@ The dashboards include KPI cards, trend visuals, top-performing customers and pr
 - `CASE` statements
 
 ## Dashboard Screenshots
-<img width="1148" height="656" alt="Screenshot 2026-07-08 184600" src="https://github.com/user-attachments/assets/a9e0dbb2-6ad0-4318-9eb4-37aa0b58c8e3" />
-<img width="1148" height="656" alt="Screenshot 2026-07-08 184600" src="https://github.com/user-attachments/assets/8c6e182e-f119-4d5b-94b9-fcbc2013ba26" />
+<img width="987" height="553" alt="Screenshot 2026-07-08 185805" src="https://github.com/user-attachments/assets/036fec2d-6d03-49cb-9f46-646d09ccdc23" />
+
+<img width="1148" height="656" alt="Screenshot 2026-07-08 184600" src="https://github.com/user-attachments/assets/3e8c3ad8-1373-4371-8b65-126416d84835" />
+
 
 
 ## Tools Used
